@@ -1,0 +1,8 @@
+{
+  "enterCarModelLeadingText": "Введите модель авто:",
+  "enterCarBrandLeadingText": "Введите бренд авто:",
+  "enterCarPriceLeadingText": "Введите стоимость авто:",
+  "deleteButtonText": "Удалить",
+  "carModelHintText": "модель авто",
+  "carBrandHintText": "бренд авто"
+}

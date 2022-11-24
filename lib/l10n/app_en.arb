@@ -1,0 +1,8 @@
+{
+  "enterCarModelLeadingText": "Enter car model:",
+  "enterCarBrandLeadingText": "Enter car brand:",
+  "enterCarPriceLeadingText": "Enter car price:",
+  "deleteButtonText": "Delete",
+  "carModelHintText": "car model",
+  "carBrandHintText": "car brand"
+}
